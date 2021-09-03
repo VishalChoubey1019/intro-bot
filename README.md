@@ -1,7 +1,7 @@
+<h1>INTRO BOT</h1>
 <p align="left">
 <a href="https://github.com/VishalChoubey1019/intro-bot/blob/main/LICENSE" alt="Lisence"><img src="https://img.shields.io/github/license/VishalChoubey1019/intro-bot"></a> <a href="https://github.com/VishalChoubey1019/intro-bot/issues" alt="Issues"><img src="https://img.shields.io/github/issues/VishalChoubey1019/intro-bot"></a> <a href="<_set your twitter id_>" alt="Twiter-Follow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FVishalChoubey1019%2Fintro-bot"></a>
 </p>
-# intro-bot
 ---
 This is a discord bot which shows embedded texts after a member joins in the server. The user is mentioned with a fox.gif and shows instructions of the server.
 
